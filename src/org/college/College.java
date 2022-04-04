@@ -9,5 +9,6 @@ public class College extends Hostel{
 }
 public void collegeRank() {
 System.out.println("College Rank is 3");
+System.out.println("college rank is 2 by dev");
 }
 }
